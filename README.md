@@ -2,9 +2,9 @@
 
 My Personal Development Discord: discord.gg/8vpTevhJCK
 
-![My Discord](https://discord-readme-badge.vercel.app/908373168459243520?id=657296742848397346)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=657296742848397346)
 
-![My Discord](https://discord-readme-badge.vercel.app/908373168459243520?id=<657296742848397346>)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=<657296742848397346>)
 <!--
 **sonerbeyss/sonerbeyss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
