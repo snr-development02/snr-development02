@@ -1,6 +1,7 @@
 ### ⚡ Hello i'm SNR, Tell me who are you ;)
 
 My Personal Development Discord: discord.gg/8vpTevhJCK
+[![](https://dcbadge.vercel.app/api/server/908373168459243520)](https://discord.gg/908373168459243520)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/657296742848397346)](https://discord.com/users/657296742848397346)
 <!--
