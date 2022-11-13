@@ -2,7 +2,7 @@
 
 My Personal Development Discord: discord.gg/8vpTevhJCK
 
-![My Discord](https://discord.com/users/657296742848397346)
+https://discord.com/users/657296742848397346
 
 <!--
 **sonerbeyss/sonerbeyss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
