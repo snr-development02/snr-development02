@@ -1,6 +1,6 @@
-### ⚡ Hmm... Hoşgeldin naber, Aşağıdan benim ile ilgili bir şeycikler var :)
+###### ⚡ Hmm... Hoşgeldin naber, Aşağıdan benim ile ilgili bir şeycikler var :)
 
-✨ My Personal Development Discord: discord.gg/8vpTevhJCK ✨
+My Personal Development Discord: discord.gg/8vpTevhJCK
 
 
 <!--
