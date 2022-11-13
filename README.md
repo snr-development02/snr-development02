@@ -1,4 +1,7 @@
-### Hi there 👋
+### ⚡ Hmm... Hoşgeldin naber, Aşağıdan benim ile ilgili bir şeycikler var :)
+
+✨ My Personal Development Discord: discord.gg/8vpTevhJCK ✨
+
 
 <!--
 **sonerbeyss/sonerbeyss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
