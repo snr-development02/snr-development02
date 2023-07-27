@@ -2,7 +2,7 @@
 
 <div align="center">
   
-##### **My Development Discord: discord.gg/8vpTevhJCK**
+##### **My Development Discord: discord.gg/TtHFpf3enK**
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/657296742848397346)](https://discord.com/users/657296742848397346)
   
